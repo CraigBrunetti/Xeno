@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xeno.Core", "Xeno.Core\Xeno.Core.csproj", "{21F65817-E477-45BB-B3DC-A1944ABE9B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F65817-E477-45BB-B3DC-A1944ABE9B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F65817-E477-45BB-B3DC-A1944ABE9B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F65817-E477-45BB-B3DC-A1944ABE9B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F65817-E477-45BB-B3DC-A1944ABE9B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DBCAB10-2405-41E1-82BF-3445881CB21A}
+	EndGlobalSection
+EndGlobal
